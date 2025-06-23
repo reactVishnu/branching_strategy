@@ -1,0 +1,2 @@
+Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It was created by Guido van Rossum and first released in 1991. Over the years, Python has become one of the most popular programming languages in the world, used in web development, data science, machine learning, automation, and more.
+
